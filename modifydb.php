@@ -3,6 +3,7 @@
 <head>
 <meta name="viewport" content="width=device-width, intial-scale=1">
 <link href="css/style.css?v=<?php echo time(); ?>" rel="stylesheet" type="text/css" />
+<title>Edit or Delete</title>
 </head>
 <body>
 
